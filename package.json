@@ -1,0 +1,16 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "brackets.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "splaytree": "^3.0.0"
+  }
+}
